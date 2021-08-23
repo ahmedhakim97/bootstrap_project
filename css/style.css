@@ -1,0 +1,62 @@
+.editNav
+{
+    border-top: 2px red solid;
+}
+nav ul li a
+{
+    color: gray !important;
+}
+nav ul li a::hover
+{
+    color: black ;
+    background-color: red;
+    font-size: 50px;
+}
+nav ul li .editBtn
+{
+    background-color: tomato;
+    color: white !important;
+}
+
+/* start header */
+#headerBg
+{
+    background-image: url(../images/img5.jpg);
+    height: 500px;
+    background-size: 100% 100%;
+}
+#headerBg .overLayHader
+{
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+    width: 100%;
+}
+.caption
+{
+    background-color: rgba(0, 0, 0, 0.4);
+    border-left: 2px tomato solid;
+}
+.caption p
+{
+    color: gray;
+}
+/* start about sec */
+#about
+{
+    background-color: rgb(223, 213, 213);
+}
+
+/* start offer sec */
+#offers h5 , #offers i 
+{
+    color: rgb(80, 80, 175);
+}
+ /* start banner */
+ #banner
+ {
+     background-color: rgb(166, 151, 194);
+ }
+ #banner h6 
+ {
+     margin-left: 14rem;
+ }
