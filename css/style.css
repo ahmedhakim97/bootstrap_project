@@ -49,14 +49,27 @@ nav ul li .editBtn
 /* start offer sec */
 #offers h5 , #offers i 
 {
-    color: rgb(80, 80, 175);
+    color: rgb(49, 49, 95);
 }
  /* start banner */
  #banner
  {
-     background-color: rgb(166, 151, 194);
+     background-color: rgb(68, 64, 75);
  }
  #banner h6 
  {
      margin-left: 14rem;
+ }
+ 
+ /* end */
+ .legal
+ {
+     background-color: gray;
+ }
+
+ /* start footer */
+
+ #footer
+ {
+     background-color: rgb(85, 84, 84);
  }
